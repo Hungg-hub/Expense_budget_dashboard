@@ -3,7 +3,7 @@
 
 An interactive personal finance analytics web application built with Python, Streamlit, Pandas, and Plotly. The tool automatically ingests bank and payment card transaction CSV files, classifies merchants into spending categories, and delivers real-time month-over-month budgetary insights.
 
-🔗 **Live Demo:** (https://expensebudgetdashboard-zrwz84pz4rovnde8xvetan.streamlit.app/)
+🔗 🔗 **Live Demo:** [Open Dashboard](https://expensebudgetdashboard-znwz84pz4rovnde8xvotan.streamlit.app/)
 
 ---
 
