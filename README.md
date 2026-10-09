@@ -27,6 +27,10 @@ An interactive personal finance analytics web application built with Python, Str
 
 ## 🚀 Local Installation & Setup
 
+
+<img width="1847" height="920" alt="image" src="https://github.com/user-attachments/assets/3106ff3c-a4bd-4629-b65e-c23a359a084a" />
+
+
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Hungg-hub/Expense-budget-dashboard.git](https://github.com/Hungg-hub/Expense-budget-dashboard.git)
