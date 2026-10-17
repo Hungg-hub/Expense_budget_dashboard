@@ -29,6 +29,7 @@ An interactive personal finance analytics web application built with Python, Str
 
 
 <img width="1847" height="920" alt="image" src="https://github.com/user-attachments/assets/3106ff3c-a4bd-4629-b65e-c23a359a084a" />
+<img width="1913" height="942" alt="image" src="https://github.com/user-attachments/assets/f886030a-867f-43b5-b1e2-d6ebdedba2e2" />
 
 
 1. **Clone the repository:**
